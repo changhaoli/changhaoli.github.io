@@ -13,12 +13,9 @@ author_profile: true
 
 Manuscripts and Preprints
 ======
-* Ph.D in Bioinformatics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 2019
-* M.S. in Bioinformatics, Institute of Botany, Chinese Academy of Sciences, 2015
-* B.S. in Seed science and Computer science (Dual majors), Shandong Agricultural University, 2012
+1. Tong, C. Y., **Li, C.**, Hurni, C., et al. (2025). Single-cell multiomic analysis of circadian rhythmicity in mouse liver. **bioRxiv** 2025.04.03.647044
+2. Oh, T., Liu, K., Li, N., **Li, C.**, et al. The spliceosome component U1-70k loads nascent transcripts onto FVE/SGS3 via co-condensation to embark on RNA silencing. **bioRxiv** 2025.04.22.650084
 
 Journal articles
 ======
-* 2019-2025: Postdoctoral Research Associate
-  * Texas A&M University
-  * Bioinformatics: NGS and single-cell data analysis
+
