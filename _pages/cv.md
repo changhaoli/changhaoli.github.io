@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bioinformatics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 2019
+* Ph.D. in Bioinformatics, Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, 2019
 * M.S. in Bioinformatics, Institute of Botany, Chinese Academy of Sciences, 2015
 * B.S. in Seed science and Computer science (Dual majors), Shandong Agricultural University, 2012
 
